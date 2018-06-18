@@ -1,0 +1,16 @@
+PODS:
+  - MLCategory (0.1.0)
+
+DEPENDENCIES:
+  - MLCategory (from `../`)
+
+EXTERNAL SOURCES:
+  MLCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MLCategory: f8a38fac2d649b13499bb0a682c8ba4edf5e5c07
+
+PODFILE CHECKSUM: 6c4ebc9a60b3ef9c307451189e40d65dbefbd9d0
+
+COCOAPODS: 1.5.3
