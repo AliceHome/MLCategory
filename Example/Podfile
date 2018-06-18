@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MLCategory_Example' do
+  pod 'MLCategory', :path => '../'
+
+  target 'MLCategory_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
